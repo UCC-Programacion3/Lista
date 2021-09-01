@@ -1,4 +1,4 @@
-# Lista Enladasa en C++
+# Lista Enlazada en C++
 
 Una lista enlazada es una colección o secuencia de elementos dispuestos uno detrás de
 otro, en la que cada elemento se conecta al siguiente elemento por un “enlace”. La idea básica
